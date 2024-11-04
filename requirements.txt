@@ -1,0 +1,9 @@
+keras==3.5.0
+numpy==2.1.1
+Pillow==10.4.0
+pytesseract==0.3.13
+pyttsx3==2.97
+textblob==0.18.0.post0
+webp==0.4.0
+opencv-python
+SpeechRecognition
